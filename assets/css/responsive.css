@@ -1,0 +1,292 @@
+/* Investing HTML Template */
+
+@media only screen and (min-width: 1921px){
+	.about-us:before{
+		width: 42%;
+		height: 80%;
+	}
+}
+@media only screen and (min-width: 1800px){
+	.image-colmun{
+		max-width: 20%;
+	}
+}
+@media only screen and (max-width: 1200px){
+	.contact-left-info{
+		margin-right: 0px;
+	}
+	.contact-right-info{
+		margin-left: 0px;
+	}
+	.contact-middle-info{
+		margin: 0px;
+		margin-bottom: 40px;
+	}
+	.scroll-to-top{
+		bottom: 50px;
+		right: 35px;
+	}
+	.service-item-one{
+		margin: 0px 0px 40px;
+	}
+	.history-text-left:before{
+		display: none;
+	}
+	.history-text-left,
+	.history-text-right {
+		float: none;
+		padding: 10px;
+		margin-bottom: 20px;
+	}
+	.blog-item-one.two .content-text h5{
+		font-size: 20px;
+	}
+}
+@media only screen and (max-width: 1199px){
+	.header-top .logo{
+		text-align: center;
+		margin-bottom: 40px;
+	}
+	.about-left-column{
+		margin-right: 0px;
+	}
+	.about-section:before{
+		width: 100%;
+		height: 50%;
+		background: url(assets/images/resource/dmedia-about.jpg)right no-repeat;
+	}
+	.about-left-column{
+		padding: 100px 100px 90px 52px;
+	}
+	.about-right-column{
+		padding: 100px 0px 80px;
+		margin-left: 0px;
+	}
+	.about-us-left{
+		margin-left: 0px;
+	}
+	.about-us-right{
+		margin-left: 0px;
+		padding-top: 0px;
+	}
+	.about-us:before{
+		width: 53%;
+		height: 45%;
+	}
+	.blog-sidebar{
+		margin-left: 0px;
+		margin-top: 50px;
+	}
+	.main-menu .navigation > li{
+	    padding-right: 30px;
+	}
+	.main-menu .navbar-collapse > ul li.dropdown .dropdown-btn{
+	    right: 25px;
+	}
+}
+@media only screen and (min-width: 992px){
+	.collapse{
+		display: block;
+	}
+	.navbar-header{
+		display: none;
+	}
+}
+@media only screen and (max-width: 991px){
+	.nav-outer .search-box {
+	    position: absolute;
+	    right: 0px;
+	    top: 0px;
+	    z-index: 99;
+	}
+	.header-upper-two .search-box.now-visible{
+	    top: 102%;
+	}
+	.header-upper .nav-outer{
+		position: relative;
+	}
+	.main-menu .navigation > li:before{
+		display: none;
+	}
+	.nav-outer .main-menu{
+		float: none;
+		width: 100%;
+		margin:  0px;
+		z-index: 99;
+	}
+	.header-info{
+		margin-left: 0px;
+	}
+	.header-upper-two{
+		padding: 0px;
+		margin-bottom: 0px;
+		background: #000000;
+	}
+	.header-upper-two .logo{
+		float: none;
+		text-align: center;
+		padding-bottom: 20px;
+	}
+	.header-upper-two .menu-area{
+		float: none;
+		background: #ffffff;
+	}
+	.header-upper-two .menu-area .outer-search-box{
+		float: none;
+		position: absolute;
+		top: 0px;
+		right: 0px;
+		z-index: 99;
+	}
+	.header-upper-two .outer-search-box .seach-toggle{
+		right: 25px;
+		color: #333333;
+	}
+	.history-area{
+		padding-top: 60px;
+	}
+}
+@media only screen and (max-width: 850px){
+	.gallery-bottom .gb-text h2{
+		font-size: 30px;
+	}
+}
+@media only screen and (max-width: 767px){
+	.about-section:before{
+		height: 43.5%;
+	}
+	.header-info-item{
+		text-align: center;
+		padding-left: 0px;
+		margin-bottom: 20px;
+	}
+	.header-info-item .icon-box{
+		position: relative;
+	}
+	.info-colmun:nth-child(1) .header-info-item {
+		margin-left: 0px;
+	}
+	.info-colmun:nth-child(2) .header-info-item {
+		margin-left: 0px;
+	}
+	.info-colmun:nth-child(3) .header-info-item {
+		margin-left: 0px;
+	}
+	.gallery-bottom .gb-text h2{
+		float: none;
+		line-height: 50px;
+		margin-bottom: 20px;
+	}
+	.gallery-bottom .link-btn{
+		float: none;
+	}
+	.newslatter-section input{
+		width: 100%;
+		margin-bottom: 20px;
+	}
+	.copyright-text{
+		float: none;
+		text-align: center;
+	}
+	.footer-menu{
+		float: none;
+		margin-right: 0px;
+		text-align: center;
+	}
+	.main-footer .footer-colmun{
+		margin-bottom: 60px;
+	}
+	.blog-item-one .text-left li{
+		margin-right: 20px;
+	}
+	.mission-skill{
+		margin: 60px 0px;
+	}
+	.blog-standard, .blog-single{
+		margin: 80px 0px;
+	}
+	.contact-form-area{
+		padding: 50px 20px;
+	}
+	.services-details .image-text h5 {
+	    font-size: 26px;
+	    line-height: 30px;
+	    padding-bottom: 10px;
+	}
+}
+
+@media only screen and (max-width: 670px){
+	.blog-item-one .text-left{
+		float: none;
+		margin-bottom: 20px;
+	}
+	.blog-item-one .link-btn{
+		float: none;
+	}
+	.about-left-column{
+		padding: 50px 20px;
+	}
+	.main-slider .text-area-two h1{
+		font-size: 30px;
+		line-height: 35px;
+	}
+	.skill-text-area{
+		margin-top: 50px;
+	}
+	.services-details .image-text{
+		padding: 20px 10px;
+	}
+	.error-section .error-text h1{
+		font-size: 150px;
+		line-height: 160px;
+	}
+	.blog-single .blog-item-one .content-text{
+		padding: 20px 10px;
+	}
+	.services-details .content-text .icon-box{
+		position: relative;
+		margin-top: -30px;
+		margin-bottom: -80px;
+	}
+	.services-details .content-text{
+		padding: 30px;
+	}
+	.services-details .content-text .text{
+		padding-left: 0px;
+	}
+}
+@media only screen and (max-width: 414px){
+    .main-slider .text-area{
+        padding: 53px 5px 58px;
+    }
+	.main-slider .text-area h1{
+		font-size: 36px;
+		line-height: 46px;
+	}
+	.main-slider .text-area h1 span{
+		font-size: 36px;
+		line-height: 46px;
+	}
+	.main-slider .text-area h3{
+	    font-size: 20px;
+	}
+	.nav-outer input[type="text"], 
+	.nav-outer input[type="search"], 
+	.nav-outer input[type="password"], 
+	.nav-outer select{
+		width: 210px;
+	}
+	.about-us:before{
+		width: 100%;
+		height: 20%;
+	}
+	.comment-item-one{
+	    padding-left: 0px;
+	    text-align: center;
+	}
+	.comment-item-one .image-box{
+	    position: relative;
+	    margin-bottom: 10px;
+	    left: 0px;
+	}
+}
